@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://workout-app-fv.netlify.app" target="_blank">
+    <a href="https://workout-app-react-eight.vercel.app" target="_blank">
       <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Workout Exercises</h3>
